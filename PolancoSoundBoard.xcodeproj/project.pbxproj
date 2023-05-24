@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7F266E3D2A1E6F8F00BC7C93 /* SoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F266E3C2A1E6F8F00BC7C93 /* SoundViewController.swift */; };
 		7FB8D8A42A1E6742009E2E84 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FB8D8A32A1E6742009E2E84 /* AppDelegate.swift */; };
 		7FB8D8A62A1E6742009E2E84 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FB8D8A52A1E6742009E2E84 /* SceneDelegate.swift */; };
 		7FB8D8A82A1E6742009E2E84 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FB8D8A72A1E6742009E2E84 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7F266E3C2A1E6F8F00BC7C93 /* SoundViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundViewController.swift; sourceTree = "<group>"; };
 		7FB8D8A02A1E6742009E2E84 /* PolancoSoundBoard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PolancoSoundBoard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7FB8D8A32A1E6742009E2E84 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7FB8D8A52A1E6742009E2E84 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				7FB8D8A52A1E6742009E2E84 /* SceneDelegate.swift */,
 				7FB8D8A72A1E6742009E2E84 /* ViewController.swift */,
 				7FB8D8A92A1E6742009E2E84 /* Main.storyboard */,
+				7F266E3C2A1E6F8F00BC7C93 /* SoundViewController.swift */,
 				7FB8D8AF2A1E6746009E2E84 /* Assets.xcassets */,
 				7FB8D8B12A1E6746009E2E84 /* LaunchScreen.storyboard */,
 				7FB8D8B42A1E6746009E2E84 /* Info.plist */,
@@ -145,6 +148,7 @@
 				7FB8D8A42A1E6742009E2E84 /* AppDelegate.swift in Sources */,
 				7FB8D8A62A1E6742009E2E84 /* SceneDelegate.swift in Sources */,
 				7FB8D8AE2A1E6742009E2E84 /* PolancoSoundBoard.xcdatamodeld in Sources */,
+				7F266E3D2A1E6F8F00BC7C93 /* SoundViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
